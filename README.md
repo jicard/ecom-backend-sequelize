@@ -27,4 +27,4 @@ Contact me via email @ icardj@outlook.com
 ## Links
 [Ecom Backend Project - MySql2, Sequelize, and RESTful API](https://github.com/jicard/ecom-backend-sequelize)
 <br />
-[Tutorial Video]()
+[Tutorial Video](https://app.castify.com/view/feb23d8a-81e8-48ac-9914-08c1e1c68be7)
